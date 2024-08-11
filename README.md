@@ -4,7 +4,9 @@ This project provides a simple Zig program for testing USB hubs. Whether you’r
 
 Features
 Detects connected USB devices.
+
 Measures data transfer speed between the hub and connected devices.
+
 Provides a concise report with relevant information.
 Getting Started
 Prerequisites:
